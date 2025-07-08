@@ -11,4 +11,5 @@ Auto-generate challenge questions
 Evaluate your answers with justification
 Extract supporting snippet from text
 
-Demo Video
+Screenshot :
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3169b1a4-e201-48ba-9947-a74bf0a53cf7" />
