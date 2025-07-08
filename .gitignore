@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.env
+.venv/
+.idea/
+*.log
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Virtual Environment Folder
+.RESA/
+.resa/
+RES_ENV/
+.venv/
+.env/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Build files
+*.egg-info/
+dist/
+build/
